@@ -5,10 +5,12 @@
 public class Test {
     private int a;
     private int b;
+    private int c;
     public void fA(){
         System.out.println("Hello World!");
     }
     public void fB() {
         System.out.println("Hello World");
     }
+    public void fC(){}
 }
