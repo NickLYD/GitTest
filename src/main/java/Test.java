@@ -11,4 +11,5 @@ public class Test {
     public void fB() {
         System.out.println("Hello World");
     }
+    public void fC(){}
 }
