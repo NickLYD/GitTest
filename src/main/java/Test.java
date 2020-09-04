@@ -12,5 +12,4 @@ public class Test {
         System.out.println("Hello World");
     }
     public void fC(){}
-    public void fD(){}
 }
