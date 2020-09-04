@@ -8,12 +8,7 @@ public class Test {
     public void fA(){
         System.out.println("Hello World!");
     }
-    public void fD(){
-        System.out.println("Hello World!");
-        System.out.println("Hello");
-    }
-    public void fB(){
+    public void fB() {
         System.out.println("Hello World");
     }
-    public void fL(){}
 }
