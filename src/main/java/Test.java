@@ -5,14 +5,12 @@
 public class Test {
     private int a;
     private int b;
-    private int c;
     public Test(){}
     public void fA(){
         System.out.println("Hello World!");
     }
-    public void fC(){}
-    public void fB(){
-        System.out.println("Hello World");
+    public void fD(){
+        System.out.println("Hello World!");
     }
-    public void fL(){}
+    public void fB(){}
 }
